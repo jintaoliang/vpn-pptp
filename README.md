@@ -1,2 +1,2 @@
 # vpn-pptp
-VPN on Docker
+VPN for Docker
